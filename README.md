@@ -33,13 +33,13 @@ less.render(data, { plugins: [remcalc] }).then(...);
 Register the plugin in your `Gruntfile.js`:
 
 ```js
-    less: {
-        options: {
-            plugins: [
-                require('less-plugin-remcalc')
-            ]
-        }
+less: {
+    options: {
+        plugins: [
+            require('less-plugin-remcalc')
+        ]
     }
+}
 ```
 
 ## Examples

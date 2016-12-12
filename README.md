@@ -7,7 +7,7 @@ Simply adds `rem-base` and `rem-calc` functions to LESS.
 ## Installation
 
 ```
-yarn install --dev less-plugin-rem-calc
+yarn install --dev less-plugin-remcalc
 ```
 
 ## Usage
@@ -36,7 +36,7 @@ Register the plugin in your `Gruntfile.js`:
     less: {
         options: {
             plugins: [
-                require("less-plugin-remcalc")
+                require('less-plugin-remcalc')
             ]
         }
     }

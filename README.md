@@ -75,3 +75,7 @@ You can also act globally on the rem base, using:
   min-width: rem-calc(20px); // is now equivalent to rem-calc(20px, 10px);
 }
 ```
+
+## License
+
+UNLICENSED (yet)

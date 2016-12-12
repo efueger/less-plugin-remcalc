@@ -5,7 +5,7 @@
     "license": "UNLICENSED",
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@stash.ovh.net:7999/~guillaume.coguiec/less-plugin-remcalc.git"
+        "url": "https://github.com/gcoguiec/less-plugin-remcalc.git"
     },
     "scripts": {
         "build": "rollup -c",

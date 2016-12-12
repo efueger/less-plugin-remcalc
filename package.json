@@ -1,0 +1,27 @@
+{
+    "name": "less-plugin-remcalc",
+    "version": "0.1.0",
+    "main": "dist/plugin.js",
+    "license": "UNLICENSED",
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@stash.ovh.net:7999/~guillaume.coguiec/less-plugin-remcalc.git"
+    },
+    "scripts": {
+        "build": "rollup -c",
+        "start": "rollup -w -c",
+        "test": "node test"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "diff": "^3.1.0",
+        "eslint": "^3.12.0",
+        "eslint-config-airbnb-base": "^11.0.0",
+        "eslint-plugin-import": "^2.2.0",
+        "less": "^2.7.1",
+        "rollup": "^0.37.0",
+        "rollup-plugin-buble": "^0.14.0",
+        "rollup-plugin-eslint": "^3.0.0",
+        "rollup-watch": "^2.5.0"
+    }
+}

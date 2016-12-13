@@ -42,6 +42,21 @@ less: {
 }
 ```
 
+### webpack (less-loader)
+
+```js
+var remcalcPlugin = require('less-plugin-remcalc');
+
+module.exports = {
+  ...
+  lessLoader: {
+    lessPlugins: [
+      remcalcPlugin
+    ]
+  }
+};
+```
+
 ## Examples
 
 ### Basic

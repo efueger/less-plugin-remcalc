@@ -1,4 +1,5 @@
 <p align="center"><img src="http://i.imgur.com/JJYWgLD.png" alt="ovh"/></p>
+[![Build Status](https://travis-ci.org/ovh-ux/less-plugin-remcalc.svg?branch=master)](https://travis-ci.org/ovh-ux/less-plugin-remcalc)
 ---
 # less-plugin-remcalc
 

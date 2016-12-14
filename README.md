@@ -28,7 +28,7 @@ var remcalc = require('less-plugin-remcalc');
 less.render(data, { plugins: [remcalc] }).then(...);
 ```
 
-### grunt-contrib-less
+### grunt (grunt-contrib-less)
 
 Register the plugin in your `Gruntfile.js`:
 

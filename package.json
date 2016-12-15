@@ -2,7 +2,7 @@
     "name": "less-plugin-remcalc",
     "version": "0.1.0",
     "main": "dist/plugin.js",
-    "license": "UNLICENSED",
+    "license": "BSD 3-Clause",
     "repository": {
         "type": "git",
         "url": "https://github.com/ovh-ux/less-plugin-remcalc.git"

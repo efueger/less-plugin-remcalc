@@ -94,4 +94,4 @@ You can also act globally on the rem base, using:
 
 ## License
 
-UNLICENSED (yet)
+BSD 3-Clause

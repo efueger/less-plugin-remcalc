@@ -8,7 +8,7 @@ Simply adds `rem-base` and `rem-calc` functions to LESS.
 ## Installation
 
 ```
-yarn install --dev less-plugin-remcalc
+yarn install --dev "https://github.com/ovh-ux/less-plugin-remcalc.git#0.1.0"
 ```
 
 ## Usage
